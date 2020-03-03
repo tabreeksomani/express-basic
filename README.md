@@ -24,6 +24,11 @@ express-basic
 └─ README.md
 ```
 
+## Technologies
+
+- Node.js
+- Heroku
+
 ## Install
 
 To clone this repository to your device:
@@ -41,6 +46,11 @@ If everything is all set up, you can run it locally:
 ```bash
 node index
 ```
+
+
+## Deployment
+
+I deployed it on Heroku. [Live View](https://xpressbasic.herokuapp.com/)
 
 ## Author
 [Hally](https://github.com/itshally)
