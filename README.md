@@ -3,11 +3,14 @@
 This is just a basic introduction / example of Express JS. 
 
 **Project Requirements:**
+
 ✅ Node.js
 
-**Sources**
-[Installing](https://expressjs.com/en/starter/installing.html)
-[Hello World](https://expressjs.com/en/starter/hello-world.html)
+**Sources:**
+
+  - [Installing](https://expressjs.com/en/starter/installing.html)
+
+  - [Hello World](https://expressjs.com/en/starter/hello-world.html)
 
 ## Files
 
@@ -19,7 +22,6 @@ express-basic
 ├─ package-lock.json
 ├─ package.json
 └─ README.md
-
 ```
 
 ## Install
